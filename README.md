@@ -2,12 +2,12 @@
 
 > A concurrent distributed file system in C (GNU C99/C11) with decoupled metadata and data planes. Features a centralized Naming Server with LRU caching, direct client-to-storage TCP streaming, and asynchronous disk flushing.
 
-[![C](https://img.shields.io/badge/C-GNU%20C99%2FC11-00599C?style=flat&logo=c&logoColor=white)](https://gcc.gnu.org/)
-[![Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://kernel.org/)
-[![Build](https://img.shields.io/badge/Build-Make%2FGCC-success?style=flat)]()
-[![Architecture](https://img.shields.io/badge/Architecture-Distributed_System-4285F4?style=flat)]()
-[![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-EA4335?style=flat)]()
-[![Concurrency](https://img.shields.io/badge/Concurrency-POSIX_Threads-00599C?style=flat)]()
+[![C](https://img.shields.io/badge/C-GNU%20C99%2FC11-00599C?style=for-the-badge&logo=c&logoColor=white)](https://gcc.gnu.org/)
+[![Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
+[![Build](https://img.shields.io/badge/Build-Make%2FGCC-success?style=for-the-badge)]()
+[![Architecture](https://img.shields.io/badge/Architecture-Distributed_System-2b3137?style=for-the-badge)]()
+[![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-2b3137?style=for-the-badge)]()
+[![Concurrency](https://img.shields.io/badge/Concurrency-POSIX_Threads-00599C?style=for-the-badge)]()
 
 ---
 
